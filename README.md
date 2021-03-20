@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeshikaSingh
 - 👀 I’m interested in .. new and inspiring things.
-- 🌱 I’m currently learning .. Artificial Intelligrnce.
+- 🌱 I’m currently learning .. Artificial Intelligence.
 - 📫 How to reach me?... Mail me at gesii.singh@gmail.com
 
 <!---
